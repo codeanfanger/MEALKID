@@ -2,7 +2,9 @@
 ![프로젝트 요약](https://github.com/user-attachments/assets/96d2f4c0-d719-425a-9701-b307d0bfca9f)
 
 ## ⬇️자세한 프로젝트 내용은 아래 자료를 참고해주시기 바랍니다.
-### [💾프로젝트 소개자료.pdf](https://github.com/user-attachments/files/16649493/MEALKID.pdf)
+### [💾MEALKID_상세소개자료.pdf](https://github.com/user-attachments/files/17038474/MEALKID.detail.pdf)
+
+
 ### 설명 영상은 Git에서 받아보실 수 있습니다! 
 <br>
 
