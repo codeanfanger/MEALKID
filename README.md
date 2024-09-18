@@ -3,9 +3,6 @@
 
 ## ⬇️자세한 프로젝트 내용은 아래 자료를 참고해주시기 바랍니다.
 ### [💾MEALKID_상세소개자료.pdf](https://github.com/user-attachments/files/17038474/MEALKID.detail.pdf)
-
-
-### 설명 영상은 Git에서 받아보실 수 있습니다! 
 <br>
 
 ## 🪄 사용 언어 및 기술
